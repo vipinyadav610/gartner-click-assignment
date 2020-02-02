@@ -1,8 +1,6 @@
 # Gartner assignment
 
-![npm](https://aleen42.github.io/badges/src/npm_flat_square.svg)
-
-![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg?style=flat-square)
+![npm](https://aleen42.github.io/badges/src/npm_flat_square.svg) ![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg?style=flat-square)
 
 ## Getting Started
 
