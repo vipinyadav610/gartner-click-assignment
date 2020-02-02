@@ -1,6 +1,8 @@
 # Gartner assignment
 
-[![js-standard](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat&colorB=398339)](http://standardjs.com/)
+![npm](https://aleen42.github.io/badges/src/npm_flat_square.svg)
+
+![javascript](https://img.shields.io/badge/%20%20JavaScript-%20%20%20%20688L-f1e05a.svg?style=flat-square)
 
 ## Getting Started
 
