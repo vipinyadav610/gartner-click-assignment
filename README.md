@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
@@ -16,7 +16,8 @@ These instructions will get you a copy of the project up and running on your loc
 #### Dependencies
 
 - `fs`: "^0.0.1-security"
-  fs used create and store information inside file
+
+  fs used to create and store information inside file.
 
 ## Run the project locally
 
@@ -32,6 +33,6 @@ These instructions will get you a copy of the project up and running on your loc
 
    > ​ yarn or npm install
 
-3. Runs the app in the development mode. By default, `NODE_ENV` is set to `development`
+3. To Run the app
 
    > yarn solution Or npm run solution
