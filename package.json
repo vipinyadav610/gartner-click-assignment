@@ -1,0 +1,23 @@
+{
+  "name": "gartner-click-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "presolution": "npm i",
+    "solution": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipinyadav610/gartner-click-assignment.git"
+  },
+  "author": "Vipin yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipinyadav610/gartner-click-assignment/issues"
+  },
+  "homepage": "https://github.com/vipinyadav610/gartner-click-assignment#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
